@@ -1,0 +1,32 @@
+.inner-form{
+    background: #fff;
+}
+.inner-form{
+    width: 80%;
+    height: 100%;
+    padding: 40px !important;
+    border-top-left-radius: 25px;
+}
+.custom-row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.inner-form h2{
+    padding-top: 100px;
+}
+
+.login-btn{
+    width: 100%;
+    border-radius: 25px;
+    padding: 10px 20px;
+    background-color: #05c190;
+    border: none;
+}
+.login-form{
+    position: relative;
+    right: -70px;
+}
+.login-reg a{
+    text-decoration: none;
+    color: #05c190;
+}
